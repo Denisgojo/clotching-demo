@@ -1,4 +1,4 @@
-# ATELIER BASIC
+# ATELIER STUDIO
 
 A static single-page storefront prototype built with semantic HTML, Tailwind CSS via CDN, custom CSS, and vanilla JavaScript.
 
